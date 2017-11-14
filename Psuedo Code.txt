@@ -1,0 +1,6 @@
+loop through each character of the string
+if
+	character is equal to characters '0' to '9', 'a' to 'f', or 'A' to 'F'
+	print corresponding unsigned decimal integer 
+else 
+	print "Invalid hexadeciamal number"
